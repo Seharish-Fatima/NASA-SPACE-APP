@@ -1,3 +1,4 @@
 streamlit
 matplotlib
 pandas  # or any other libraries you're using
+seaborn
