@@ -1,4 +1,7 @@
 streamlit
-matplotlib
-pandas  # or any other libraries you're using
+pandas
+plotly
+numpy
+scipy
 seaborn
+scikit-learn
